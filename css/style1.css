@@ -1,0 +1,58 @@
+.footer{
+    background-color: rgb(4, 10, 62);
+    height:50vh;
+}
+
+.footer .head1 p, .head2 p{
+    color:white;
+    text-align:center;
+    margin:30px;
+    padding-top:30px;
+}
+
+.line:after{
+    padding-left:5px;
+    content:"_________________________";
+    color:aliceblue;
+}
+
+.line{
+    text-align:center;
+}
+
+.icons i{  
+    background-color:blue;
+    padding:15px;
+    border-radius:40px;
+    text-align:center;
+}
+
+ .icons{
+    text-align:center;
+    color:white;
+    
+}
+
+
+
+.icon1{
+    padding-left:540px;
+    display:flex;
+    padding-top:10px;
+}
+.icon2 p{
+    display:inline;
+    padding:20px 50px;
+}
+.media{
+    display:inline-block;
+    text-align:center;
+    background-color:rgb(237, 237, 243);
+    padding:5px 20px;
+    margin-left:44%;
+}
+.media i{
+    padding:10px;
+    color:blue;
+    text-align:center
+}
