@@ -10,7 +10,6 @@
   position:relative;
   height:700px;
   width:100%;
-
 }
 
 #carouselExampleFade ::after{
@@ -272,7 +271,6 @@
   .two h3, .two p {
     margin-top:2rem;
     color:white;
-    
     
   }
   

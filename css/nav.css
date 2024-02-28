@@ -1,0 +1,64 @@
+div{
+    color:rgb(238, 102, 124);
+    animation-fill-mode: forwards;
+    position:absolute;
+    height:600px;
+}
+
+.set{
+    animation : drop 3s infinite;
+    color:rgb(238, 102, 124);
+    top:0;
+}
+
+@keyframes drop{
+    from{
+        top:0;
+        transform: rotate(360deg);
+    }
+
+    to{
+        transform: rotate(360deg);
+    }
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* toggle css
+
+.active{
+    background-color: red;
+    height:100vh;
+    width:150px;
+    transform:translateX(-100%);
+}
+
+.box{
+    background-color: red;
+    height:100vh;
+    width:150px;
+    transform:translateX(0%);
+} */

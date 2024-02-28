@@ -1,0 +1,22 @@
+*{
+    background-color: rgb(187, 188, 190);
+}
+
+#open{
+    margin-bottom:20px;
+    background-color: white;
+    display:flex;
+}
+
+#select{
+    background-color:white;
+    padding-top:40px;
+    padding-bottom:30px;
+    width:20%; 
+    display:none;  
+}
+
+#show{
+    background-color:white;
+}
+
